@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1" systemVersion="11A491" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
-    <elements/>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14460.32" systemVersion="18B75" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="FriendsInformation" representedClassName="FriendsInformation" syncable="YES" codeGenerationType="class">
+        <attribute name="addfriendmode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="avuserid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="usercostomername" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="usergender" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="username" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userprofile" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userqrcode" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="userregion" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="usersignature" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="usersupchatsid" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="FriendsInformation" positionX="-63" positionY="-18" width="128" height="195"/>
+    </elements>
 </model>

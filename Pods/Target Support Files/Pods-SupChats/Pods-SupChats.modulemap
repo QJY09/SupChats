@@ -1,0 +1,6 @@
+framework module Pods_SupChats {
+  umbrella header "Pods-SupChats-umbrella.h"
+
+  export *
+  module * { export * }
+}

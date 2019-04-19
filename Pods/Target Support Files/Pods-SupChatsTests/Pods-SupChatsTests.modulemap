@@ -1,0 +1,6 @@
+framework module Pods_SupChatsTests {
+  umbrella header "Pods-SupChatsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

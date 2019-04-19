@@ -1,0 +1,114 @@
+
+/* Class = "UITabBarItem"; title = "Chats"; ObjectID = "3KS-kP-QrV"; */
+"3KS-kP-QrV.title" = "Chats";
+
+/* Class = "UIButton"; normalTitle = "Voice"; ObjectID = "4jS-eD-te6"; */
+"4jS-eD-te6.normalTitle" = "Voice";
+
+/* Class = "UIViewController"; title = "More"; ObjectID = "62G-bM-LPS"; */
+"62G-bM-LPS.title" = "More";
+
+/* Class = "UILabel"; text = "UserName"; ObjectID = "6KW-zB-Gnk"; */
+"6KW-zB-Gnk.text" = "UserName";
+
+/* Class = "UILabel"; text = "User Country: China"; ObjectID = "6qc-OS-gDh"; */
+"6qc-OS-gDh.text" = "User Country: China";
+
+/* Class = "UIButton"; normalTitle = "Add Friend"; ObjectID = "CLq-xF-qNc"; */
+"CLq-xF-qNc.normalTitle" = "Add Friend";
+
+/* Class = "UINavigationItem"; title = "Personal"; ObjectID = "EAw-oJ-iSt"; */
+"EAw-oJ-iSt.title" = "Personal";
+
+/* Class = "UIViewController"; title = "Personal"; ObjectID = "EDx-Gu-0Ml"; */
+"EDx-Gu-0Ml.title" = "Personal";
+
+/* Class = "UINavigationItem"; title = "Contants"; ObjectID = "EPL-px-nAi"; */
+"EPL-px-nAi.title" = "Contants";
+
+/* Class = "UITabBarItem"; title = "Personal"; ObjectID = "FIz-5s-bIX"; */
+"FIz-5s-bIX.title" = "Personal";
+
+/* Class = "UITableViewController"; title = "Choice of Friends active"; ObjectID = "FOe-U5-Uju"; */
+"FOe-U5-Uju.title" = "Choice of Friends active";
+
+/* Class = "UIViewController"; title = "Chats"; ObjectID = "G0U-1w-kAs"; */
+"G0U-1w-kAs.title" = "Chats";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "HAE-dE-uwm"; */
+"HAE-dE-uwm.text" = "Time";
+
+/* Class = "UILabel"; text = "ChatsMessageView"; ObjectID = "HAs-D2-uKi"; */
+"HAs-D2-uKi.text" = "ChatsMessageView";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "I4z-bT-WNG"; */
+"I4z-bT-WNG.text" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Call"; ObjectID = "Let-rz-Lzj"; */
+"Let-rz-Lzj.normalTitle" = "Call";
+
+/* Class = "UISearchBar"; placeholder = "Search in contacts"; ObjectID = "LlL-r6-UIQ"; */
+"LlL-r6-UIQ.placeholder" = "Search in contacts";
+
+/* Class = "UIButton"; normalTitle = "Video Call"; ObjectID = "M8z-WN-Cse"; */
+"M8z-WN-Cse.normalTitle" = "Video Call";
+
+/* Class = "UITableViewController"; title = "Chats Table View Controller"; ObjectID = "OKU-f0-hP6"; */
+"OKU-f0-hP6.title" = "Chats Table View Controller";
+
+/* Class = "UITableViewController"; title = "Choice of Function"; ObjectID = "Ph2-Tg-jQr"; */
+"Ph2-Tg-jQr.title" = "Choice of Function";
+
+/* Class = "UINavigationItem"; title = "Qchats"; ObjectID = "Qa6-uo-myf"; */
+"Qa6-uo-myf.title" = "Qchats";
+
+/* Class = "UIButton"; normalTitle = "Star"; ObjectID = "RSe-iR-eva"; */
+"RSe-iR-eva.normalTitle" = "Star";
+
+/* Class = "UITabBarItem"; title = "Contacts"; ObjectID = "SVn-lX-LEQ"; */
+"SVn-lX-LEQ.title" = "Contacts";
+
+/* Class = "UIButton"; normalTitle = "More"; ObjectID = "UFf-kF-DhT"; */
+"UFf-kF-DhT.normalTitle" = "More";
+
+/* Class = "UIViewController"; title = "ChatingMessageView"; ObjectID = "VfI-m6-bGL"; */
+"VfI-m6-bGL.title" = "ChatingMessageView";
+
+/* Class = "UITabBarController"; title = "4MainChoose"; ObjectID = "WdK-tx-pJ7"; */
+"WdK-tx-pJ7.title" = "4MainChoose";
+
+/* Class = "UIButton"; normalTitle = "Chat"; ObjectID = "XAa-o6-6HK"; */
+"XAa-o6-6HK.normalTitle" = "Chat";
+
+/* Class = "UIButton"; normalTitle = "Creat Group"; ObjectID = "XIT-zQ-HAV"; */
+"XIT-zQ-HAV.normalTitle" = "Creat Group";
+
+/* Class = "UINavigationItem"; title = "More"; ObjectID = "bfw-eV-JIL"; */
+"bfw-eV-JIL.title" = "More";
+
+/* Class = "UIButton"; normalTitle = "QR code"; ObjectID = "dNZ-Rd-rYN"; */
+"dNZ-Rd-rYN.normalTitle" = "QR code";
+
+/* Class = "UIViewController"; title = "Contacts"; ObjectID = "dY6-aZ-NhO"; */
+"dY6-aZ-NhO.title" = "Contacts";
+
+/* Class = "UILabel"; text = "User ID:"; ObjectID = "dpL-Xe-3EF"; */
+"dpL-Xe-3EF.text" = "User ID:";
+
+/* Class = "UITabBarItem"; title = "More"; ObjectID = "f4M-nv-o9y"; */
+"f4M-nv-o9y.title" = "More";
+
+/* Class = "UIButton"; normalTitle = "Coming soon"; ObjectID = "f78-NE-ytr"; */
+"f78-NE-ytr.normalTitle" = "Coming soon";
+
+/* Class = "UIButton"; normalTitle = "Emoji"; ObjectID = "oMa-pz-Izf"; */
+"oMa-pz-Izf.normalTitle" = "Emoji";
+
+/* Class = "UITextField"; text = "somathing"; ObjectID = "sbT-bz-SHT"; */
+"sbT-bz-SHT.text" = "somathing";
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "vwx-8E-Zh1"; */
+"vwx-8E-Zh1.text" = "Message";
+
+/* Class = "UITableViewController"; title = "ContantsTableViewController"; ObjectID = "zgy-ln-cAY"; */
+"zgy-ln-cAY.title" = "ContantsTableViewController";

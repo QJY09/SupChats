@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="DefaultTableViewCell" customModule="SupChats" customModuleProvider="target"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="DefaultCell" id="KGk-i7-Jjw" customClass="DefaultTableViewCell" customModule="SupChats" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="55"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="375" height="54.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="v76-Yy-U7r">
+                        <rect key="frame" x="16" y="2.5" width="50" height="50"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="50" id="8ks-ap-qlx"/>
+                            <constraint firstAttribute="width" constant="50" id="JXI-rJ-dNZ"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Title" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="M3E-oI-kAV">
+                        <rect key="frame" x="76" y="2.5" width="150" height="22"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="150" id="aUY-ti-fld"/>
+                            <constraint firstAttribute="height" constant="22" id="ntG-fo-kyf"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="21"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Intorduction" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3rA-6P-jGh">
+                        <rect key="frame" x="76" y="26.5" width="290" height="18"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="290" id="LGQ-eu-dQ2"/>
+                            <constraint firstAttribute="height" constant="18" id="hSx-VE-R89"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name=".SFNSText" family=".SF NS Text" pointSize="16"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="3rA-6P-jGh" firstAttribute="top" secondItem="M3E-oI-kAV" secondAttribute="bottom" constant="2" id="0w5-MX-e48"/>
+                    <constraint firstItem="M3E-oI-kAV" firstAttribute="leading" secondItem="3rA-6P-jGh" secondAttribute="leading" id="5Ka-MW-dGg"/>
+                    <constraint firstItem="3rA-6P-jGh" firstAttribute="leading" secondItem="v76-Yy-U7r" secondAttribute="trailing" constant="10" id="CZg-rH-UqP"/>
+                    <constraint firstItem="M3E-oI-kAV" firstAttribute="leading" secondItem="v76-Yy-U7r" secondAttribute="trailing" constant="10" id="Fgj-o1-5Gr"/>
+                    <constraint firstItem="v76-Yy-U7r" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="16" id="GIV-Fg-Rno"/>
+                    <constraint firstItem="v76-Yy-U7r" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="KW4-zZ-QDA"/>
+                    <constraint firstItem="M3E-oI-kAV" firstAttribute="top" secondItem="v76-Yy-U7r" secondAttribute="top" id="vEn-Yn-7IU"/>
+                </constraints>
+            </tableViewCellContentView>
+            <gestureRecognizers/>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="CImage" destination="v76-Yy-U7r" id="9TM-Nn-hnf"/>
+                <outlet property="CIntroduction" destination="3rA-6P-jGh" id="RMB-1p-Aas"/>
+                <outlet property="CTitle" destination="M3E-oI-kAV" id="x0i-fP-eVs"/>
+            </connections>
+            <point key="canvasLocation" x="124" y="136.73163418290855"/>
+        </tableViewCell>
+    </objects>
+</document>

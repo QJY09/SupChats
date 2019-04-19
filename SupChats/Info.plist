@@ -20,6 +20,25 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>App needs your permission to access your Media Library.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>App needs your permission to access Your Camera.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>App needs your consent to always access your Location.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>App needs your permission to access your Location.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>App needs your permission to access your Location, when you need to use location.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>App needs your permission to access your Microphone.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>App needs your permission to access your Photo Library.</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
